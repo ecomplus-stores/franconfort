@@ -2,5 +2,18 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### F﻿ormas de entrega"
+  "body": "### F﻿ormas de entrega\n\n\n\nE﻿nviamos para São Paulo e ABC",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
