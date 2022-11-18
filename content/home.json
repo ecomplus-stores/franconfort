@@ -30,14 +30,44 @@
       "mobile_img": "/img/uploads/faixamobile.jpg"
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Colchões",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "news",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.franconfort.com.br/colchoes",
       "limit": 12,
-      "page": 1
+      "collection_id": "61fc29dc7963422eeee7fbc0:categories:COLCHÕES:/colchoes",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61fc29fd7963422eeee7fc2c:categories:TRAVESSEIROS:/travesseiros",
+      "sort": "news",
+      "title": "Travesseiros, veja mais ",
+      "link": "https://www.franconfort.com.br/travesseiros"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6376898373321213f8e0bcd2:categories:SOFÁ:/204149",
+      "sort": "news",
+      "link": "https://www.franconfort.com.br/sofa",
+      "title": "Sofás com os melhores preços "
+    },
+    {
+      "type": "page-title",
+      "title": "Mais Produtos"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
     },
     {
       "type": "info-bar",
