@@ -12,6 +12,12 @@
           "end": "",
           "img": "/img/uploads/camabox.jpg",
           "mobile_img": "/img/uploads/camaboxm.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/cabeceirasd.jpg",
+          "mobile_img": "/img/uploads/cabeceirasmobile.jpg"
         }
       ]
     },
