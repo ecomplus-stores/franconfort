@@ -1,7 +1,7 @@
 {
   "domain": "franconfort.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0b397d",
+  "primary_color": "#05085c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
