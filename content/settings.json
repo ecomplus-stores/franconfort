@@ -3,10 +3,10 @@
   "currency_symbol": "R$",
   "primary_color": "#05085c",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "lux",
     "custom": "_"
   },
-  "bg_color": "#04045f",
+  "bg_color": "#efeff5",
   "logo": "/img/uploads/logo-horizontal-principal-fundo-branco_1.png",
   "name": "FranConfort",
   "short_name": "Franconfort",
