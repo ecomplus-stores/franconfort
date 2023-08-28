@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.07e3fa49a9cd1683ff7de5bbec1373a7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.73d3470a0d34fa4ccfb76215e95c4830.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5b1597e9c0efa6fd2813266b26ca4068.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.70016a75d4799f3db9d2e30e4d20cb14.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.fe5d006efc3d3a8adbfabcc7f4150fa7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "FranConfort",
+  "short_name": "Franconfort",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Qualidade e Conforto para seu bem estar e uma boa noite de sono.. \nCompre online:  Camas, Colchões e Travesseiros.",
+  "background_color": "#efeff5",
+  "theme_color": "#05085c"
+}
